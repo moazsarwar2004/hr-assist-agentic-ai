@@ -1,0 +1,10 @@
+[project]
+name = "atliq-hr-assist"
+version = "0.1.0"
+description = "MCP server for an agentic HR assistant demo."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.9.4",
+    "python-dotenv>=1.2.2",
+]
