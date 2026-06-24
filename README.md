@@ -86,6 +86,17 @@ Update the paths for your local machine:
 
 ![Claude Desktop prompt for HR Assist](resources/image.jpg)
 
+## Preview Screenshots
+
+All provided screenshots are included in the `preview/` folder:
+
+- [Screenshot 2026-06-23 130041](preview/Screenshot%202026-06-23%20130041.png)
+- [Screenshot 2026-06-23 130648](preview/Screenshot%202026-06-23%20130648.png)
+- [Screenshot 2026-06-23 130723](preview/Screenshot%202026-06-23%20130723.png)
+- [Screenshot 2026-06-23 130732](preview/Screenshot%202026-06-23%20130732.png)
+- [Screenshot 2026-06-23 130750](preview/Screenshot%202026-06-23%20130750.png)
+- [Screenshot 2026-06-23 131620](preview/Screenshot%202026-06-23%20131620.png)
+
 ## Notes
 
 - Data is stored in memory and seeded at startup for demo purposes.
