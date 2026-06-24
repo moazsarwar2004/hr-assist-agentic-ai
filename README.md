@@ -96,9 +96,3 @@ All provided screenshots are included in the `preview/` folder:
 - [Screenshot 2026-06-23 130732](preview/Screenshot%202026-06-23%20130732.png)
 - [Screenshot 2026-06-23 130750](preview/Screenshot%202026-06-23%20130750.png)
 - [Screenshot 2026-06-23 131620](preview/Screenshot%202026-06-23%20131620.png)
-
-## Notes
-
-- Data is stored in memory and seeded at startup for demo purposes.
-- Use an app-specific password for Gmail or any SMTP provider that requires it.
-- Do not commit `.env` or real credentials.
